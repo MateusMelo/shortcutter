@@ -1,5 +1,5 @@
 # shortcutter
-A Desktop Entry marker for GNU/Linux
+A Desktop Entry maker for GNU/Linux
 
 ## Usage
 ```shell
